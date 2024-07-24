@@ -4,12 +4,12 @@ A mod for Mindustry that adds new composite walls.
 # Usage
 Download the .jar and import it into Mindustry. After a client restart, the blocks should be ready. 
 
-## Multiplayer
-This mod is not designed to work in multiplayer. Don't expect it to continuously work on a dedicated/headless server.
+## Headless server/client
+This mod is not designed to work on a headless server. Don't expect it to continuously work on a headless server.
 
 Although, with that said, it has worked fine from my testing.
 
-## Singleplayer
+## Non-headless server/client
 Join any save you wish. Currently, this mod doesn't exclude itself from the Erekir tree verbatimly, so do expect to see
 composite walls on an Erekir planet/sector.
 
