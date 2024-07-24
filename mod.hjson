@@ -1,0 +1,15 @@
+displayName: "Lett's \"First\" Java mod."
+
+name: "lfm"
+
+author: "BnDLett"
+
+main: "Mod.Main"
+
+description: "A Mindustry mod developed by BnDLett"
+
+version: "0.1.0"
+
+minGameVersion: 145
+
+java: true
