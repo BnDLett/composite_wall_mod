@@ -1,15 +1,9 @@
-displayName: "Lett's \"First\" Java mod."
-
+displayName: "Composite Walls"
 name: "lfm"
-
 author: "BnDLett"
-
-main: "Mod.Main"
-
 description: "A Mindustry mod developed by BnDLett"
-
 version: "0.1.0"
-
 minGameVersion: 145
 
+main: "Mod.Main"
 java: true
