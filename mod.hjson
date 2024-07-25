@@ -2,7 +2,7 @@ displayName: "Composite Walls"
 name: "lfm"
 author: "BnDLett"
 description: "A Mindustry mod developed by BnDLett"
-version: "0.1.0"
+version: "0.1.1"
 minGameVersion: 145
 
 main: "Mod.Main"
